@@ -1,3 +1,4 @@
+GitHub Repository: (https://github.com/Eoin-TK/build-ml-pipeline-for-short-term-rental-prices)
 W&B Project: (https://wandb.ai/eoinkeohane-learning/nyc_airbnb)
 
 # Build an ML Pipeline for Short-Term Rental Prices in NYC
